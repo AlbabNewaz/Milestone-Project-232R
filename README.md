@@ -8,6 +8,12 @@ You can access to the ongoing notebook [here](https://colab.research.google.com/
 
 [III. Dataset](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#dataset)
 
+[IV. Data Exploration](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#data-exploration)
+
+- [Top Games](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#top-games)
+- [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#scoring)
+- [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#review-sentiment)
+
 # Introduction
 
 The following project takes data from Steam reviews and attempts to translate the data into digestible and understandable chunks for meaningful insights. 
@@ -43,14 +49,20 @@ The database licensed by [MIT](https://www.mit.edu/~amini/LICENSE.md) and author
 
 The dataset is roughly 40GB, expanding on 113,883,717 Steam reviews. 
 
-#Data Layout
+# Data Exploration
 
+### Top games
 Diving into the data itself we can view some of the most reviewed games on Steam:
 ![image](https://github.com/user-attachments/assets/0334e365-7c05-470a-abce-3d73d547a8a7)
 While not too insightful, it does prepare us for what games we would continue to see as we delve into the data.
 
+### Scoring
 Scoring behavior is also something to look into as some users tend to receive games for free while others pay for them. We can notice a postiive trend between recieving the game for free and reviewing the game more positively vs their paid counterparts other than a few exceptions.
 
 ![image](https://github.com/user-attachments/assets/6636fcdb-315b-425d-ad02-080a5f7c4b74)
 
+### Review sentiment
+The initial diagnosis of the diagram below shows that games tend to have a lower interquartile range for time played when there is a negative sentiment towards the game. This could be related to users quiting the game early after reviewing, while positive reviewers tend to continue playing for much longer. 
+![image](https://github.com/user-attachments/assets/5d93ee69-21f0-488a-8b8d-46303fcae32e)
+However, the data, at least for the top 20 games, does not show any strong trends to provide substantial evidence for any claims.
 
