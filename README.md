@@ -2,16 +2,15 @@
 You can access to the ongoing notebook [here](https://colab.research.google.com/drive/1fRkPnDpM9iT9j1_r4wEPnfLOAMCwGa10?usp=sharing)
 
 # Table Of Content:
-[I. Introduction](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#introduction)
+[I. Introduction](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
 
-[II. Abstract](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#abstract)
+[II. Abstract](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#abstract)
 
-[III. Dataset](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#dataset)
+[III. Dataset](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#dataset)
 
-[IV. Data Exploration](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#data-exploration)
-
-- [Top Games](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#top-games)
-- [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#scoring)
+[IV. Data Exploration](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#data-exploration)
+- [Top Games](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#top-games)
+- [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#scoring)
 - [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
 
 # Introduction
