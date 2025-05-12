@@ -42,3 +42,15 @@ The database licensed by [MIT](https://www.mit.edu/~amini/LICENSE.md) and author
 - developer response (if any)
 
 The dataset is roughly 40GB, expanding on 113,883,717 Steam reviews. 
+
+#Data Layout
+
+Diving into the data itself we can view some of the most reviewed games on Steam:
+![image](https://github.com/user-attachments/assets/0334e365-7c05-470a-abce-3d73d547a8a7)
+While not too insightful, it does prepare us for what games we would continue to see as we delve into the data.
+
+Scoring behavior is also something to look into as some users tend to receive games for free while others pay for them. We can notice a postiive trend between recieving the game for free and reviewing the game more positively vs their paid counterparts other than a few exceptions.
+
+![image](https://github.com/user-attachments/assets/6636fcdb-315b-425d-ad02-080a5f7c4b74)
+
+
