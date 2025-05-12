@@ -12,7 +12,7 @@ You can access to the ongoing notebook [here](https://colab.research.google.com/
 
 - [Top Games](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#top-games)
 - [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#scoring)
-- [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#review-sentiment)
+- [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
 
 # Introduction
 
