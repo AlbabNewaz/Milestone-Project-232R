@@ -8,7 +8,9 @@ You can access to the ongoing notebook [here](https://colab.research.google.com/
 
 [III. Dataset](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#dataset)
 
-[IV. Data Exploration](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#data-exploration)
+[IV. Processing Data](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#processing-data)
+
+[V. Data Exploration](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#data-exploration)
 - [Top Games](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#top-games)
 - [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#scoring)
 - [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
@@ -47,6 +49,18 @@ The database licensed by [MIT](https://www.mit.edu/~amini/LICENSE.md) and author
 - developer response (if any)
 
 The dataset is roughly 40GB, expanding on 113,883,717 Steam reviews. 
+
+# Processing Data
+
+The following represents a general outline of cleaning and processing the dataset to be used for this report. 
+
+1. Data Loading using Dusk due to the nature of the file size.
+2. Initial Cleaning
+   - Dropping rows with missing values
+   - Dropping unwanted columns to increase performance.
+   - Fixing data types
+3. Filtering and sampling. Sampled only the top 20 for the initial data parsing to keep performance high and give an overall understanding of the data.
+4. Grouping and aggregation to create visuals for us to interpret. 
 
 # Data Exploration
 
