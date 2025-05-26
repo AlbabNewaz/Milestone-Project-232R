@@ -15,6 +15,8 @@ You can access to the ongoing notebook [here](https://colab.research.google.com/
 - [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#scoring)
 - [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
 
+[VI. Model building]
+
 # Introduction
 
 The following project takes data from Steam reviews and attempts to translate the data into digestible and understandable chunks for meaningful insights. 
@@ -78,4 +80,8 @@ Scoring behavior is also something to look into as some users tend to receive ga
 The initial diagnosis of the diagram below shows that games tend to have a lower interquartile range for time played when there is a negative sentiment towards the game. This could be related to users quiting the game early after reviewing, while positive reviewers tend to continue playing for much longer. 
 ![image](https://github.com/user-attachments/assets/5d93ee69-21f0-488a-8b8d-46303fcae32e)
 However, the data, at least for the top 20 games, does not show any strong trends to provide substantial evidence for any claims.
+
+
+# Model building 
+Introduction to the first model build. The initial model aims to train our model on pred
 
