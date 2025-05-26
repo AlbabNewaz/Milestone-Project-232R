@@ -15,7 +15,11 @@ You can access to the ongoing notebook [here](https://colab.research.google.com/
 - [Scoring](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#scoring)
 - [Review Sentiment](https://github.com/AlbabNewaz/Milestone-Project-232R?tab=readme-ov-file#review-sentiment)
 
-[VI. Model building]
+[VI. Model building](https://github.com/AlbabNewaz/Milestone-Project-232R/blob/milestone-3/README.md#model-building)
+- [First Model](
+https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#first-basic-model)
+   - [first model conclusion](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#first-model-conclusion)
+- [Second Model Planning](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#model-2-plan)
 
 # Introduction
 
@@ -83,14 +87,14 @@ However, the data, at least for the top 20 games, does not show any strong trend
 
 
 # Model building
-###First basic model.
+### First basic model.
 Introduction to the first model build. The initial model aims to train our model on predicting the vote (voted_up, or label in our code) based on the features of "author_num_games_owned", "author_playtime_at_review", and "comment_count". This aims to check if there is anything our model can predict based on the features. Essentially, this can be seen as a test to check correlation in a sense, but with our models' attempts at prediction. Since our labels are binary, it means that we can assume that guessing completely randomly would lead us to a 50/50 split or a .50 accuracy.
 
 ![image](https://github.com/user-attachments/assets/9d177c17-58e4-46af-8d5f-e23852a05ef3)
 
 In our case, we were able to hit above a 50%, but not by a large margin. As mentioned in the abstract, the main goal of this project is to uncover trends in different game metrics with the player's appeal of the game, in this case, the label. Playtime is a significant contributor, along with the number of games owned by the user, for our initial model as we move towards more complex models. 
 
-###First model conclusion
+### First model conclusion
 The first model was mainly meant to give us a working understanding of the data and the correlations of the data. The contributed being mentioned earlier were actually chosen at random to give us a "here is it and work with it approach" that I tend to use when evaluating datsets. Having a better understanding of random parts of the whole tends to paint a better picture going forward. While the feature sets are small and our initial outlook does not look the best. The first model did achieve its goal of attempting to better grasp the direction of the following models.
 
 ### Model 2 plan
