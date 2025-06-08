@@ -99,3 +99,12 @@ The first model was mainly meant to give us a working understanding of the data 
 
 ### Model 2 plan (dropped for final build)
 Model 2 plans on taking the base idea further by showing that there are predictive indicators for how users tend to feel and review a game. A helpful method for understanding review outlooks for companies when releasing a new game. Model 2 aims to take a fairly different approach to looking at what features are predictive of continued play. To elaborate, we have data on steam time at review and last played, along with playtime forever, among other playtime-related columns. Using potential predictive factors such as the review being positive/ funny or any other potentially signaling data to train our model to predict players' likelihood of continued play in the game. 
+
+### Results 
+The results from the first build provided substance to the claim that there is some form of correlation for us to notice between the features and our prediction criteria of voted up. This means that there is substance in trying to understand, or rather predict the human aspect of games from the features. 
+
+Understanding the why is trying to understand the human aspect of reviews. Unlike a general understanding of predictable outcomes humans tend to have a certain unpredicability that something like reviews might be able to capture. 
+
+### Conclusion 
+
+
