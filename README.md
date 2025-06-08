@@ -23,7 +23,7 @@ https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#
 
 # Introduction
 
-The following project takes data from Steam reviews and attempts to translate the data into digestible and understandable chunks for meaningful insights. 
+The following project takes data from Steam reviews and attempts to translate the data into digestible and understandable chunks for meaningful insights. The initial data walkthrough provides key visuals to show the overall structure and trends in the dataset. 
 
 # Abstract
 
@@ -97,5 +97,5 @@ In our case, we were able to hit above a 50%, but not by a large margin. As ment
 ### First model conclusion
 The first model was mainly meant to give us a working understanding of the data and the correlations of the data. The contributed being mentioned earlier were actually chosen at random to give us a "here is it and work with it approach" that I tend to use when evaluating datsets. Having a better understanding of random parts of the whole tends to paint a better picture going forward. While the feature sets are small and our initial outlook does not look the best. The first model did achieve its goal of attempting to better grasp the direction of the following models.
 
-### Model 2 plan
+### Model 2 plan (dropped for final build)
 Model 2 plans on taking the base idea further by showing that there are predictive indicators for how users tend to feel and review a game. A helpful method for understanding review outlooks for companies when releasing a new game. Model 2 aims to take a fairly different approach to looking at what features are predictive of continued play. To elaborate, we have data on steam time at review and last played, along with playtime forever, among other playtime-related columns. Using potential predictive factors such as the review being positive/ funny or any other potentially signaling data to train our model to predict players' likelihood of continued play in the game. 
