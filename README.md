@@ -21,6 +21,10 @@ https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#
    - [first model conclusion](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#first-model-conclusion)
 - [Second Model Planning](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/milestone-3/README.md#model-2-plan)
 
+[VII. Results](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#results)
+
+[VIII. Conclusion](https://github.com/AlbabNewaz/Milestone-Project-232R/edit/main/README.md#conclusion)
+
 # Introduction
 
 The following project takes data from Steam reviews and attempts to translate the data into digestible and understandable chunks for meaningful insights. The initial data walkthrough provides key visuals to show the overall structure and trends in the dataset. 
@@ -103,8 +107,10 @@ Model 2 plans on taking the base idea further by showing that there are predicti
 ### Results 
 The results from the first build provided substance to the claim that there is some form of correlation for us to notice between the features and our prediction criteria of voted up. This means that there is substance in trying to understand, or rather predict the human aspect of games from the features. 
 
-Understanding the why is trying to understand the human aspect of reviews. Unlike a general understanding of predictable outcomes humans tend to have a certain unpredicability that something like reviews might be able to capture. 
+Understanding the why is trying to understand the human aspect of reviews. Unlike a general understanding of predictable outcomes, humans tend to have a certain unpredictability that something like reviews might be able to capture. 
 
 ### Conclusion 
+In conclusion, there is a noticeable association, or rather substance, to continue researching the topic of different features that affect the human aspect of reviews. Positive reviews might not always be the deciding factor in determining the success for a game realeasae and overall popularity of a game release. However, training a model to predict potential changes in consumer behavior might help predict future trends.
+
 
 
