@@ -96,21 +96,23 @@ Introduction to the first model build. The initial model aims to train our model
 
 ![image](https://github.com/user-attachments/assets/9d177c17-58e4-46af-8d5f-e23852a05ef3)
 
-In our case, we were able to hit above a 50%, but not by a large margin. As mentioned in the abstract, the main goal of this project is to uncover trends in different game metrics with the player's appeal of the game, in this case, the label. Playtime is a significant contributor, along with the number of games owned by the user, for our initial model as we move towards more complex models. 
+In our case, we were able to hit above a 50%, but not by a large margin. As mentioned in the abstract, the main goal of this project is to uncover trends in different game metrics with the player's appeal of the game, in this case, the label. Playtime is a significant contributor, along with the number of games owned by the user, for our initial model, as we move towards more complex models. 
 
 ### First model conclusion
-The first model was mainly meant to give us a working understanding of the data and the correlations of the data. The contributed being mentioned earlier were actually chosen at random to give us a "here is it and work with it approach" that I tend to use when evaluating datsets. Having a better understanding of random parts of the whole tends to paint a better picture going forward. While the feature sets are small and our initial outlook does not look the best. The first model did achieve its goal of attempting to better grasp the direction of the following models.
+The first model was mainly meant to give us a working understanding of the data and the correlations of the data. The contributed being mentioned earlier were actually chosen at random to give us a "here is it and work with it approach" that I tend to use when evaluating datasets. Having a better understanding of random parts of the whole tends to paint a better picture going forward. While the feature sets are small and our initial outlook does not look the best. The first model did achieve its goal of attempting to better grasp the direction of the following models.
 
 ### Model 2 plan (dropped for final build)
 Model 2 plans on taking the base idea further by showing that there are predictive indicators for how users tend to feel and review a game. A helpful method for understanding review outlooks for companies when releasing a new game. Model 2 aims to take a fairly different approach to looking at what features are predictive of continued play. To elaborate, we have data on steam time at review and last played, along with playtime forever, among other playtime-related columns. Using potential predictive factors such as the review being positive/ funny or any other potentially signaling data to train our model to predict players' likelihood of continued play in the game. 
 
 ### Results 
-The results from the first build provided substance to the claim that there is some form of correlation for us to notice between the features and our prediction criteria of voted up. This means that there is substance in trying to understand, or rather predict the human aspect of games from the features. 
+The results from the first build provided substance to the claim that there is some form of correlation for us to notice between the features and our prediction criteria of voted up. This means that there is substance in trying to understand, or rather predict, the human aspect of games from the features. 
 
 Understanding the why is trying to understand the human aspect of reviews. Unlike a general understanding of predictable outcomes, humans tend to have a certain unpredictability that something like reviews might be able to capture. 
 
 ### Conclusion 
-In conclusion, there is a noticeable association, or rather substance, to continue researching the topic of different features that affect the human aspect of reviews. Positive reviews might not always be the deciding factor in determining the success for a game realeasae and overall popularity of a game release. However, training a model to predict potential changes in consumer behavior might help predict future trends.
+In conclusion, there is a noticeable association, or rather substance, to continue researching the topic of different features that affect the human aspect of reviews. Positive reviews might not always be the deciding factor in determining the success of a game release and overall popularity of a game release. However, training a model to predict potential changes in consumer behavior might help predict future trends.
+
+Using the dataset was rather challenging due to the nature of reviews, where there are options of different emotes instead of up or down voting the specific review, or even the fact that there is a large amount of reviews that are in languages other than English. This means that there was a lot more work in the form of data cleaning and filtering when working with this particular dataset. Going further into this dataset, we would be able to understand and create models that are better at understanding the irrational behavior of people when they like or dislike a game and address the potential of success based on factors that might match our model.
 
 
 
